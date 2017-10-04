@@ -54,7 +54,7 @@ public void automateRunning() throws InterruptedException{
 	Mens_Running_Shoe home_page=new Mens_Running_Shoe(driver);
 	//mouse over on MEN bar
 	Thread.sleep(10000);
-	home_page.mouseHover();
+	home_page.mouseHover(driver);
 	Thread.sleep(3000);
 	//Click on menu options
 	home_page.clickOptions();
