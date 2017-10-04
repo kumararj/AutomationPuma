@@ -1,0 +1,11 @@
+2017-09-16 12:25:14 INFO  TestBase:134 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2017-09-16 12:25:19 INFO  TC001_VerifyLoginWithInvalidCredentailsToAutoMationPractices:27 - =========== Starting verifyLoginWithInvalidCredentails Test=============
+2017-09-16 12:25:22 INFO  TestBase:285 - browser closed
+2017-09-30 11:03:16 INFO  TestBase:134 - navigating to :-file:///Users/bsingh5/git/POMWithPageFactoryFramework/project/demoSite.htm
+2017-09-30 11:06:24 INFO  TestBase:134 - navigating to :-https://in.puma.com
+2017-09-30 11:07:49 INFO  TestBase:285 - browser closed
+2017-10-03 12:51:24 INFO  TestBase:285 - browser closed
+2017-10-03 12:56:06 INFO  TestBase:285 - browser closed
+2017-10-03 13:01:55 INFO  TestBase:285 - browser closed
+2017-10-03 13:24:50 INFO  TestBase:285 - browser closed
+2017-10-03 14:29:19 INFO  TestBase:285 - browser closed
